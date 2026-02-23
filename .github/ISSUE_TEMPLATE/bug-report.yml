@@ -32,7 +32,7 @@ body:
     attributes:
       label: Description
       description: Please provide detailed information about the bug
-      placeholder: |
+      value: |
                     Bug detail description:
                     Describe the bug in detail.
                     

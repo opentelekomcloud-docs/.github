@@ -23,7 +23,7 @@ body:
     attributes:
       label: Feature Description
       description: Please provide a clear and detailed description of the feature you're requesting
-      placeholder: |
+      value: |
                     Feature overview:
                     Provide a high-level description of the requested feature or documentation.
                     
